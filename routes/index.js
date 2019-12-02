@@ -4,5 +4,5 @@ const express = require('express')
 const scraper = require('../controllers/scraper')
 const api = express.Router()
 
-api.post('/seguidores', scraper.seguidores)
+api.get('/seguidores', scraper.seguidores)
 module.exports = api
