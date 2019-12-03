@@ -1,6 +1,5 @@
 const puppeteer = require('puppeteer');
-const cookies = require("./cookies_dc");
-
+const cookies = require("../cookies");
 async function seguidores()
 {
   try{

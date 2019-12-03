@@ -14,8 +14,6 @@
     "cors": "^2.8.5",
     "data.task": "^3.1.2",
     "express": "^4.17.1",
-    "nodemon": "^1.19.1",
-    "puppeteer": "^1.20.0",
-    "@elastic/elasticsearch": "^7.1.0"
+    "puppeteer": "^1.20.0"
   }
 }
